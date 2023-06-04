@@ -1,26 +1,28 @@
 # Algorithms Buddies
 
-### Main links
+## General
 
-* [NeetCode](https://neetcode.io/)
-* [LeetCode](https://leetcode.com/)
-* [Grokking System Design and Coding Interview](https://www.designgurus.io/)
 * [Educative](https://www.educative.io/)
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 
+## Algorithms
 
+* [LeetCode](https://leetcode.com/)
+* [NeetCode](https://neetcode.io/)
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
+* [Know Thy Complexities!](https://www.bigocheatsheet.com/)
 
-### From Yandex HR
+## System Design
 
-* [Как проходят алгоритмические секции на собеседованиях в Яндекс](https://habr.com/ru/companies/yandex/articles/449890/)
-* [Знай сложности алгоритмов](https://habr.com/ru/articles/188010/)
+* [Grokking System Design and Coding Interview](https://www.designgurus.io/)
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
+## From Yandex HR
 
-* [Подготовка к собеседованию в Яндекс](https://contest.yandex.ru/contest/8458/enter/)
+* [Собеседование в Яндексе](https://yandex.ru/jobs/pages/ya-interview)
 * [Как мы нанимаем бэкенд-разработчиков](https://yandex.ru/jobs/pages/dev_interview)
-* [Задачи для подготовки к интервью с алгоритмическими задачами в Яндексе](https://concrete-tarantula-75f.notion.site/78eeaf37759141b09bd1adc3795221e0)
-
-
+* [Как проходят алгоритмические секции на собеседованиях в Яндекс](https://habr.com/ru/companies/yandex/articles/449890/)
+* [Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем](https://habr.com/ru/companies/yandex/articles/564132/)
+* [Яндекс Контест. Подготовка к собеседованию в Яндекс](https://contest.yandex.ru/contest/8458/enter/)
 * [Как решать алгоритмические секции: помощь разработчикам, собеседующимся в Яндекс. Часть 1](https://www.youtube.com/watch?v=0yxjWwoZtLw)
 * [Как решать алгоритмические секции: помощь разработчикам, собеседующимся в Яндекс. Часть 2](https://www.youtube.com/watch?v=zU-LndSG5RE)
