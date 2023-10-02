@@ -11,6 +11,7 @@
 * [NeetCode](https://neetcode.io/)
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 * [Know Thy Complexities!](https://www.bigocheatsheet.com/)
+* [Yandex Тренировки по алгоритмам](https://yandex.ru/yaintern/algorithm-training)
 
 ## System Design
 
